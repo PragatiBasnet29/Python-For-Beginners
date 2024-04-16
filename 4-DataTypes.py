@@ -26,3 +26,18 @@ print("dict :", h)
 
 i = {"Apple", "Orange", "Mango"}
 print("set :", i)
+
+j = frozenset({"Nimal", "Amal", "Kamal"})
+print("frosenset :", j)
+
+k = True
+print("bool :", k)
+
+l = bytearray(5)
+print("bytearray :", l)
+
+m = memoryview(bytes(5))
+print("memoryview :", m)
+
+n = None
+print("NoneType :", n)
