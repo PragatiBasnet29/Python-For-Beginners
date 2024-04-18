@@ -23,3 +23,4 @@ print("\n")
 myfruits = ["Mango", "Apple", "Orange", "Banana"]
 for x in myfruits:
     print(x)
+
